@@ -46,5 +46,5 @@ This repository acts as the companion profile to [dineshdamse.com](https://dines
 
 > 🎨 Looking for a personalized solution or MVP development? Let’s connect!
 >
-> ![dineshdamse.com Banner](./banner.png)
+> ![dineshdamse.com Banner](./banner.jpg)
 
